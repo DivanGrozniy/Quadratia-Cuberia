@@ -1,0 +1,57 @@
+{
+    "GameField size": [
+        6,
+        5
+    ],
+    "Robot starting position": [
+        4,
+        1,
+        3
+    ],
+    "Figure Tiles": [
+        [
+            1,
+            1
+        ],
+        [
+            4,
+            1
+        ],
+        [
+            5,
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            4,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            3,
+            3
+        ],
+        [
+            4,
+            3
+        ],
+        [
+            4,
+            4
+        ]
+    ],
+    "Marked Tiles": [],
+    "Marked Walls": [],
+    "Value Marked Tiles": [],
+    "Value Marked Walls": []
+}
